@@ -1,4 +1,4 @@
-name: CD GitOps
+name: CDGitOps
 
 on:
   push:
