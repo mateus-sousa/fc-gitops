@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: mateuspanda/gitopsfc
-  newTag: 894c9b299b05af7003a7e4e84f94b3a2d91c1cd2
+  newTag: 63a4bc7b77a83f06f80af7f7d60131cb46ac2b16
